@@ -1,0 +1,4 @@
+{
+    "image": "odsai/vtb23-baseline:0.0.1",
+    "entry_point": "python -u run.py"
+}
