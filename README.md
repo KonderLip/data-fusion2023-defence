@@ -3,5 +3,5 @@
 
 * Mean Harm ROC-AUC: **0,720445** (топ 5 на 01.03.23)
 * [catboost-solution](catboost-solution.ipynb) - интерактивный блокнот с кодом для создания новых признаков, обучения модели и полезными комментариями
-* [catboost-weights](catboost-weights.ipynb) - обучаем модель предсказывать вероятность того, что транзакция пользователя была атакована. model_cb_weights.cbm(model_cb_weights.cbm) - обученная модель
+* [catboost-weights](catboost-weights.ipynb) - обучаем модель предсказывать вероятность того, что транзакция пользователя была атакована. [model_cb_weights.cbm](model_cb_weights.cbm) - обученная модель
 * [submit](submission/) - файлы для отправки в систему
